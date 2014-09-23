@@ -28,7 +28,7 @@
 	<?php endif; ?>
 
 	<?php if(OC_APP::isEnabled('firstrunwizard')) {?>
-	<p class="center"><a class="button" href="#" id="showWizard"><?php p($l->t('Show First Run Wizard again'));?></a></p>
+	<!-- <p class="center"><a class="button" href="#" id="showWizard"><?php p($l->t('Show First Run Wizard again'));?></a></p> -->
 	<?php }?>
 </div>
 
