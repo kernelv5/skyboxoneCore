@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>news</id>
+	<name>News</name>
+	<description>An RSS/Atom feed reader. Requires skyboxone backgroundjobs or an updater script to be enabled to update your feeds. See the README.rst in the apps top directory</description>
+	<licence>AGPL</licence>
+	<author>Alessandro Cosentino, Bernhard Posselt, Jan-Christoph Borchardt. Powered by SimplePie (Ryan Parman, Geoffrey Sneddon, Ryan McCue and contributors).</author>
+	<version>3.001</version>
+	<require>7.8</require>
+</info>

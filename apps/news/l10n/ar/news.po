@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# eng1fares <fares_ss202@hotmail.com>, 2014
+# suliman al-ajlan <291101251@std.qu.edu.sa>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: ownCloud\n"
+"Report-Msgid-Bugs-To: translations@owncloud.org\n"
+"POT-Creation-Date: 2014-08-26 01:01-0400\n"
+"PO-Revision-Date: 2014-08-25 05:22+0000\n"
+"Last-Translator: eng1fares <fares_ss202@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/owncloud/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: businesslayer/feedbusinesslayer.php:97
+msgid "Can not add feed: Exists already"
+msgstr "لا يمكن اضافة هذا الملقم:هو موجود بالفعل"
+
+#: businesslayer/feedbusinesslayer.php:137
+msgid ""
+"Can not add feed: URL does not exist, SSL Certificate can not be validated "
+"or feed has invalid xml"
+msgstr "لا يمكن إضافة هذا الملقم: عنوان URL غير موجود, شهادة SSL لايمكن التحقق منه أو الملقم لديه xml غير صالح"
+
+#: businesslayer/feedbusinesslayer.php:282
+msgid "Articles without feed"
+msgstr "مقالات بدون ملقم"
+
+#: businesslayer/folderbusinesslayer.php:54
+msgid "Can not add folder: Exists already"
+msgstr "لا يمكن اضافة المجلد:موجود بالفعل"
+
+#: js/vendor/angular-ui/build/angular-ui.min.js:7
+msgid " "
+msgstr " "
+
+#: js/vendor/angular-ui/build/angular-ui.min.js:7
+msgid "_"
+msgstr "-"
+
+#: js/vendor/jquery-ui/ui/minified/jquery-ui.min.js:8
+msgid "status"
+msgstr "الحالة"
+
+#: templates/main.php:32
+#, php-format
+msgid "Undo deletion of %s"
+msgstr "التراجع عن حذف %s"
+
+#: templates/main.php:36
+msgid "News"
+msgstr "اخبار"
+
+#: templates/part.addnew.php:12
+msgid "Add Website"
+msgstr "اضافة موقع الكتروني"
+
+#: templates/part.addnew.php:19
+msgid "Error: address exists already!"
+msgstr "خطا: العنوان موجود بالفعل"
+
+#: templates/part.addnew.php:22
+msgid "Error: folder exists already"
+msgstr "خطا: المجلد موجود بالفعل"
+
+#: templates/part.addnew.php:29
+msgid "Address"
+msgstr "عنوان"
+
+#: templates/part.addnew.php:32 templates/part.addnew.php:35
+msgid "Add"
+msgstr "أدخل"
+
+#: templates/part.addnew.php:39 templates/part.addnew.php:46
+msgid "New folder"
+msgstr "مجلد جديد"
+
+#: templates/part.addnew.php:40
+msgid "Folder"
+msgstr "مجلد"
+
+#: templates/part.addnew.php:44
+msgid "Choose folder"
+msgstr "اختر مجلد"
+
+#: templates/part.addnew.php:55
+msgid "Folder name"
+msgstr "اسم المجلد"
+
+#: templates/part.addnew.php:59
+msgid "Back to folder selection"
+msgstr "الرجوع الى المجلد المحدد"
+
+#: templates/part.addnew.php:63
+msgid "Create folder"
+msgstr "انشئ مجلد"
+
+#: templates/part.feed.starred.php:11
+msgid "Starred"
+msgstr "معلّم بنجمة."
+
+#: templates/part.feed.unread.php:11
+msgid "Unread articles"
+msgstr "مقال غير مقروء"
+
+#: templates/part.feed.unread.php:18
+msgid "All articles"
+msgstr "جميع المقالات"
+
+#: templates/part.feed.unread.php:27 templates/part.listfeed.php:62
+#: templates/part.listfolder.php:55
+msgid "Mark read"
+msgstr "تحديد كـ مقروء"
+
+#: templates/part.firstrun.php:2
+msgid "Welcome to the ownCloud News app!"
+msgstr "مرحبا بك في برنامج اخبار ownCloud!"
+
+#: templates/part.items.php:20
+msgid "read on website"
+msgstr "اقرء عن طريق الموقع الالكتروني"
+
+#: templates/part.items.php:40
+msgid "star"
+msgstr "نجمة"
+
+#: templates/part.items.php:56
+msgid "from"
+msgstr "من"
+
+#: templates/part.items.php:61
+msgid "by"
+msgstr "من قبل"
+
+#: templates/part.items.php:68
+msgid "Download"
+msgstr "تحميل"
+
+#: templates/part.items.php:79
+msgid "Keep unread"
+msgstr "ابقاءة كـ غير مقروء"
+
+#: templates/part.listfeed.php:22 templates/part.listfolder.php:19
+msgid "Cancel"
+msgstr "الغاء"
+
+#: templates/part.listfeed.php:25 templates/part.listfolder.php:22
+msgid "Save"
+msgstr "حفظ"
+
+#: templates/part.listfeed.php:50 templates/part.listfeed.php:74
+msgid "Delete website"
+msgstr "احذف الموقع الالكتروني"
+
+#: templates/part.listfeed.php:69
+msgid "Rename feed"
+msgstr "اعادة تسمية الملقم"
+
+#: templates/part.listfolder.php:15
+msgid "Collapse"
+msgstr "طوي"
+
+#: templates/part.listfolder.php:44 templates/part.listfolder.php:60
+msgid "Delete folder"
+msgstr "حذف المجلد"
+
+#: templates/part.listfolder.php:67
+msgid "Rename folder"
+msgstr "اعادة تسمية المجلد"
+
+#: templates/part.settings.php:13
+msgid "Settings"
+msgstr "إعدادات"
+
+#: templates/part.settings.php:15
+msgid "Use compact view"
+msgstr "استخدم العرض المضغوط"
+
+#: templates/part.settings.php:17
+msgid "Subscriptions (OPML)"
+msgstr "اشتراك (OPML)"
+
+#: templates/part.settings.php:21 templates/part.settings.php:24
+#: templates/part.settings.php:52 templates/part.settings.php:57
+msgid "Import"
+msgstr "إدخال"
+
+#: templates/part.settings.php:28 templates/part.settings.php:32
+#: templates/part.settings.php:36 templates/part.settings.php:38
+#: templates/part.settings.php:60 templates/part.settings.php:64
+#: templates/part.settings.php:68 templates/part.settings.php:70
+msgid "Export"
+msgstr "تصدير"
+
+#: templates/part.settings.php:42
+msgid "Error when importing: file does not contain valid OPML"
+msgstr "خطا عند الاستيراد: الملف لايحتوي على OPML صالح"
+
+#: templates/part.settings.php:48
+msgid "Unread/Starred Articles"
+msgstr "مقالات غير مقروءه/نجمة "
+
+#: templates/part.settings.php:74
+msgid "Error when importing: file does not contain valid JSON"
+msgstr "خطا عند الاستيراد: الملف لايحتوي على OPML صالح"
+
+#: templates/part.showall.php:5
+msgid "Show read articles"
+msgstr "عرض المقالات المقروءة"
+
+#: templates/part.showall.php:11
+msgid "Hide read articles"
+msgstr "اخف المقالات المقروؤة"

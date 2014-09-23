@@ -1,0 +1,22 @@
+<?php $TRANSLATIONS = array(
+"News" => "Ziņas",
+"Address" => "Adrese",
+"Add" => "Pievienot",
+"New folder" => "Jauna mape",
+"Folder" => "Mape",
+"Folder name" => "Mapes nosaukums",
+"Starred" => "Svarīgs",
+"Unread articles" => "Nelasītie raksti",
+"All articles" => "Visi raksti",
+"by" => "līdz",
+"Download" => "Lejupielādēt",
+"Keep unread" => "Atstāt nelasītu",
+"Cancel" => "Atcelt",
+"Save" => "Saglabāt",
+"Collapse" => "Sakļaut",
+"Delete folder" => "Dzēst mapi",
+"Rename folder" => "Pārsaukt mapi",
+"Settings" => "Iestatījumi",
+"Import" => "Importēt",
+"Export" => "Eksportēt"
+);

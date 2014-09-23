@@ -1,0 +1,19 @@
+<?php $TRANSLATIONS = array(
+"status" => "статус",
+"News" => "Вести",
+"Address" => "Адреса",
+"Add" => "Додај",
+"Folder" => "фасцикла",
+"Starred" => "Означено звездицом",
+"by" => "од",
+"Download" => "Преузми",
+"Keep unread" => "Задржи непрочитано",
+"Cancel" => "Откажи",
+"Save" => "Сачувај",
+"Collapse" => "Скупи",
+"Delete folder" => "Обриши фасциклу",
+"Rename folder" => "Преименуј фасциклу",
+"Settings" => "Поставке",
+"Import" => "Увези",
+"Export" => "Извези"
+);

@@ -1,0 +1,44 @@
+{
+    "name": "News",
+    "id": "news",
+    "description": "ownCloud News App",
+    "licence": "AGPL",
+    "version": "3.001",
+    "authors": [
+        {
+            "name": "Bernhard Posselt",
+            "email": "dev@bernhard-posselt.com"
+        },
+        {
+            "name": "Alessandro Cosentino",
+            "email": "cosenal@gmail.com"
+        },
+        {
+            "name": "Jan-Christoph Borchardt",
+            "email": "hey@jancborchardt.net"
+        }
+    ],
+    "homepage": "https://github.com/owncloud/news",
+    "bugs": "https://github.com/owncloud/news/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/owncloud/news.git"
+    },
+    "navigation": {},
+    "documentation": {
+        "developer": "https://github.com/owncloud/news/wiki"
+    },
+    "jobs": ["OCA\\News\\Cron\\Updater"],
+    "hooks": {
+        "OC_User::pre_deleteUser": "OCA\\News\\Hooks\\User::deleteUser"
+    },
+    "databases": ["pgsql", "sqlite3", "mysql"],
+    "categories": ["Multimedia"],
+    "dependencies": {
+        "php": ">=5.4",
+        "owncloud": ">=7.8",
+        "libs": {
+            "curl": "*"
+        }
+    }
+}

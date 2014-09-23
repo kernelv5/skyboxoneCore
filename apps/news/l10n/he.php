@@ -1,0 +1,20 @@
+<?php $TRANSLATIONS = array(
+"News" => "חדשות",
+"Address" => "כתובת",
+"Add" => "הוספה",
+"Folder" => "תיקייה",
+"Choose folder" => "נא לבחור בתיקייה",
+"Folder name" => "שם התיקייה",
+"Starred" => "מסומן",
+"from" => "מאת",
+"by" => "על ידי",
+"Download" => "הורדה",
+"Keep unread" => "סמן כלא נקרא",
+"Cancel" => "ביטול",
+"Save" => "שמירה",
+"Delete folder" => "מחק תיקייה",
+"Rename folder" => "שנה שם תיקייה",
+"Settings" => "הגדרות",
+"Import" => "יבוא",
+"Export" => "ייצוא"
+);

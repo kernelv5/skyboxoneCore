@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# hanfeng <appweb.cn@gmail.com>, 2012
+# Dennis <dtsang29@hotmail.com>, 2013
+# Dianjin Wang <1132321739qq@gmail.com>, 2013
+# Martin Liu <liuzh66@gmail.com>, 2014
+# Qingping Hou <dave2008713@gmail.com>, 2013
+# Smartree <smartree@gmail.com>, 2014
+# waterone <suiy02@gmail.com>, 2012
+# phy <transifex@phy25.com>, 2014
+# csslayer <wengxt@gmail.com>, 2013-2014
+# zhangmin <zm1990s@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ownCloud\n"
+"Report-Msgid-Bugs-To: translations@owncloud.org\n"
+"POT-Creation-Date: 2014-08-26 01:01-0400\n"
+"PO-Revision-Date: 2014-08-25 05:22+0000\n"
+"Last-Translator: phy <transifex@phy25.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/owncloud/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: businesslayer/feedbusinesslayer.php:97
+msgid "Can not add feed: Exists already"
+msgstr "无法增加反馈：已经存在"
+
+#: businesslayer/feedbusinesslayer.php:137
+msgid ""
+"Can not add feed: URL does not exist, SSL Certificate can not be validated "
+"or feed has invalid xml"
+msgstr "无法增加源：URL 不存在，SSL 证书无法验证或者源包括无效的 xml"
+
+#: businesslayer/feedbusinesslayer.php:282
+msgid "Articles without feed"
+msgstr "没有订阅的文章"
+
+#: businesslayer/folderbusinesslayer.php:54
+msgid "Can not add folder: Exists already"
+msgstr "无法增加目录：目录已存在"
+
+#: js/vendor/angular-ui/build/angular-ui.min.js:7
+msgid " "
+msgstr " "
+
+#: js/vendor/angular-ui/build/angular-ui.min.js:7
+msgid "_"
+msgstr "_"
+
+#: js/vendor/jquery-ui/ui/minified/jquery-ui.min.js:8
+msgid "status"
+msgstr "状态"
+
+#: templates/main.php:32
+#, php-format
+msgid "Undo deletion of %s"
+msgstr "撤销删除 %s"
+
+#: templates/main.php:36
+msgid "News"
+msgstr "新闻"
+
+#: templates/part.addnew.php:12
+msgid "Add Website"
+msgstr "增加网页"
+
+#: templates/part.addnew.php:19
+msgid "Error: address exists already!"
+msgstr "错误：地址已存在"
+
+#: templates/part.addnew.php:22
+msgid "Error: folder exists already"
+msgstr "错误：目录不存在"
+
+#: templates/part.addnew.php:29
+msgid "Address"
+msgstr "地址"
+
+#: templates/part.addnew.php:32 templates/part.addnew.php:35
+msgid "Add"
+msgstr "增加"
+
+#: templates/part.addnew.php:39 templates/part.addnew.php:46
+msgid "New folder"
+msgstr "增加文件夹"
+
+#: templates/part.addnew.php:40
+msgid "Folder"
+msgstr "文件夹"
+
+#: templates/part.addnew.php:44
+msgid "Choose folder"
+msgstr "选择目录"
+
+#: templates/part.addnew.php:55
+msgid "Folder name"
+msgstr "目录名称"
+
+#: templates/part.addnew.php:59
+msgid "Back to folder selection"
+msgstr "返回到目录选择"
+
+#: templates/part.addnew.php:63
+msgid "Create folder"
+msgstr "创建目录"
+
+#: templates/part.feed.starred.php:11
+msgid "Starred"
+msgstr "已加星标"
+
+#: templates/part.feed.unread.php:11
+msgid "Unread articles"
+msgstr "未读文章"
+
+#: templates/part.feed.unread.php:18
+msgid "All articles"
+msgstr "全部文章"
+
+#: templates/part.feed.unread.php:27 templates/part.listfeed.php:62
+#: templates/part.listfolder.php:55
+msgid "Mark read"
+msgstr "标记已读"
+
+#: templates/part.firstrun.php:2
+msgid "Welcome to the ownCloud News app!"
+msgstr "欢迎使用ownCloud新闻应用！"
+
+#: templates/part.items.php:20
+msgid "read on website"
+msgstr "在网站上阅读"
+
+#: templates/part.items.php:40
+msgid "star"
+msgstr "星标"
+
+#: templates/part.items.php:56
+msgid "from"
+msgstr "来源"
+
+#: templates/part.items.php:61
+msgid "by"
+msgstr "被"
+
+#: templates/part.items.php:68
+msgid "Download"
+msgstr "下载"
+
+#: templates/part.items.php:79
+msgid "Keep unread"
+msgstr "保持未读"
+
+#: templates/part.listfeed.php:22 templates/part.listfolder.php:19
+msgid "Cancel"
+msgstr "取消"
+
+#: templates/part.listfeed.php:25 templates/part.listfolder.php:22
+msgid "Save"
+msgstr "保存"
+
+#: templates/part.listfeed.php:50 templates/part.listfeed.php:74
+msgid "Delete website"
+msgstr "删除网站"
+
+#: templates/part.listfeed.php:69
+msgid "Rename feed"
+msgstr "重命名订阅"
+
+#: templates/part.listfolder.php:15
+msgid "Collapse"
+msgstr "折叠"
+
+#: templates/part.listfolder.php:44 templates/part.listfolder.php:60
+msgid "Delete folder"
+msgstr "删除目录"
+
+#: templates/part.listfolder.php:67
+msgid "Rename folder"
+msgstr "重命名目录"
+
+#: templates/part.settings.php:13
+msgid "Settings"
+msgstr "设置"
+
+#: templates/part.settings.php:15
+msgid "Use compact view"
+msgstr "使用紧凑试图"
+
+#: templates/part.settings.php:17
+msgid "Subscriptions (OPML)"
+msgstr "订阅 (OPML)"
+
+#: templates/part.settings.php:21 templates/part.settings.php:24
+#: templates/part.settings.php:52 templates/part.settings.php:57
+msgid "Import"
+msgstr "导入"
+
+#: templates/part.settings.php:28 templates/part.settings.php:32
+#: templates/part.settings.php:36 templates/part.settings.php:38
+#: templates/part.settings.php:60 templates/part.settings.php:64
+#: templates/part.settings.php:68 templates/part.settings.php:70
+msgid "Export"
+msgstr "导出"
+
+#: templates/part.settings.php:42
+msgid "Error when importing: file does not contain valid OPML"
+msgstr "导入时出错：文件不包含有效的OPML"
+
+#: templates/part.settings.php:48
+msgid "Unread/Starred Articles"
+msgstr "未读/已加星标文章"
+
+#: templates/part.settings.php:74
+msgid "Error when importing: file does not contain valid JSON"
+msgstr "导入出错：文件包含非法的JSON数据"
+
+#: templates/part.showall.php:5
+msgid "Show read articles"
+msgstr "显示已读文章"
+
+#: templates/part.showall.php:11
+msgid "Hide read articles"
+msgstr "隐藏已读文章"
